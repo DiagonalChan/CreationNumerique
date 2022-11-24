@@ -8,7 +8,7 @@
    sodipodi:version="0.32"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    version="1.0"
-   sodipodi:docname="arduinoCheatSheet.svg"
+   sodipodi:docname="Arduino_AideMemoire.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -35,15 +35,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.29311342"
-     inkscape:cx="2753.2005"
-     inkscape:cy="1415.8342"
+     inkscape:cx="1995.8145"
+     inkscape:cy="3053.4255"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="829"
      inkscape:window-x="1432"
-     inkscape:window-y="-8"
+     inkscape:window-y="174"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -171,7 +171,7 @@
          x="3739.1389"
          y="2155.7876"
          id="tspan2183-6"
-         style="font-size:40px;line-height:1.24"></tspan><tspan
+         style="font-size:40px;line-height:1.24" /><tspan
          sodipodi:role="line"
          x="3739.1389"
          y="2205.3877"
@@ -191,7 +191,7 @@
          x="3739.1389"
          y="2354.1875"
          style="font-size:40px;line-height:1.24"
-         id="tspan157034"></tspan><tspan
+         id="tspan157034" /><tspan
          sodipodi:role="line"
          x="3739.1389"
          y="2403.7876"
@@ -201,7 +201,7 @@
          x="3739.1389"
          y="2453.3877"
          style="font-size:40px;line-height:1.24"
-         id="tspan152249"></tspan><tspan
+         id="tspan152249" /><tspan
          sodipodi:role="line"
          x="3739.1389"
          y="2502.9875"
@@ -211,7 +211,7 @@
          x="3739.1389"
          y="2552.5876"
          style="font-size:40px;line-height:1.24"
-         id="tspan157032"></tspan><tspan
+         id="tspan157032" /><tspan
          sodipodi:role="line"
          x="3739.1389"
          y="2602.1875"
@@ -221,7 +221,7 @@
          x="3739.1389"
          y="2651.7876"
          style="font-size:40px;line-height:1.24"
-         id="tspan152253"></tspan><tspan
+         id="tspan152253" /><tspan
          sodipodi:role="line"
          x="3739.1389"
          y="2701.3877"
@@ -3175,12 +3175,12 @@
          x="3700.2102"
          y="3269.0537"
          id="tspan5296"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;line-height:1.21;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"> Version SVG : Mark Liffiton</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;line-height:1.21;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Version SVG : Mark Liffiton</tspan><tspan
          sodipodi:role="line"
          x="3700.2102"
          y="3333.5872"
          id="tspan5300"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;line-height:1.21;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"> Schéma Arduino : Fritzing.org</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;line-height:1.21;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Schéma Arduino : Fritzing.org</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.71278"
@@ -3889,19 +3889,19 @@
       <text
          id="text7755"
          y="-2279.7258"
-         x="1624.6289"
+         x="1692.8619"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:100%;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end;fill:#505050;fill-opacity:1"
            y="-2279.7258"
-           x="1624.6289"
+           x="1692.8619"
            id="tspan7757"
            sodipodi:role="line">Source primaire: Arduino Language Reference</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:end;text-anchor:end;fill:#0f7491;fill-opacity:1"
            id="tspan7763"
            y="-2204.9185"
-           x="1624.6289"
-           sodipodi:role="line">https://arduino.cc/reference/en/</tspan></text>
+           x="1692.8619"
+           sodipodi:role="line">https://www.arduino.cc/reference/fr/</tspan></text>
     </a>
     <text
        xml:space="preserve"
@@ -5031,7 +5031,7 @@
          style="font-size:40px;line-height:1.24"><tspan
            x="97.404297"
            style="stroke-width:4.71278"
-           id="tspan2629">  {'A','r','d','u','i','n','o','\0'};</tspan><tspan
+           id="tspan2629"> {'A','r','d','u','i','n','o','\0'};</tspan><tspan
            dx="22.03125"
            style="stroke-width:4.71278"
            id="tspan2631" /></tspan><tspan
